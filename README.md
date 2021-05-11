@@ -7,9 +7,13 @@ FinalModel notebook contains the results of our model agains dataset 01.
 FinalModel2 notebook contains the results of our model against dataset 02.
 
 images.csv - original kaggle csv file (not using)
+
 images_2.csv - simplified categories (not using)
+
 images_3.csv - simplified categories with additional data (dataset 01)
+
 images_4.csv - original kaggle file with additional data but without ambiguous data (dataset 02)
 
 Kaggle dataset: https://www.kaggle.com/agrigorev/clothing-dataset-full
+
 Additional data: https://www.kaggle.com/stephenyu36/other-clothes
