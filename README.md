@@ -3,8 +3,8 @@ Clothing classifier implemented using convolutional neural networks in PyTorch. 
 
 Experimented with image resizing and grayscaling in Feature Extraction from Images notebook.
 Exported images_3.csv & images_4.csv using the Add_Additional_Data notebook.
-FinalModel notebook contains the results of our model against dataset 01.
-FinalModel2 notebook contains the results of our model against dataset 02.
+FinalModel notebook contains the results of our model against dataset 02.
+FinalModel2 notebook contains the results of our model against dataset 01.
 
 images.csv - original kaggle csv file (not using)
 
