@@ -12,7 +12,7 @@ images_2.csv - simplified categories (not using)
 
 images_3.csv - simplified categories with additional data (dataset 01)
 
-images_4.csv - original kaggle file with additional data but without ambiguous data (dataset 02)
+images_4.csv - original categories with additional data but without ambiguous data (dataset 02)
 
 Kaggle dataset: https://www.kaggle.com/agrigorev/clothing-dataset-full
 
