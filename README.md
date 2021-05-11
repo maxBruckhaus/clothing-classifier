@@ -10,10 +10,10 @@ images.csv - original kaggle csv file (not using)
 
 images_2.csv - simplified categories (not using)
 
-images_3.csv - simplified categories with additional data (dataset 01)
+images_3.csv - simplified categories with additional images (dataset 01)
 
-images_4.csv - original categories with additional data but without ambiguous data (dataset 02)
+images_4.csv - original categories with additional images but without ambiguous data (dataset 02)
 
 Kaggle dataset: https://www.kaggle.com/agrigorev/clothing-dataset-full
 
-Additional data: https://www.kaggle.com/stephenyu36/other-clothes
+Additional images: https://www.kaggle.com/stephenyu36/other-clothes
