@@ -1,5 +1,5 @@
 # clothing-classifier
-Clothing classifier implemented using convolutional neural networks in PyTorch. Achieved accuracy of 91% with 4 categories (topcs, bottoms, shoes, hats) which decreased to 69% when more categories were introduced (dress, longsleeve, polo, etc).
+Clothing classifier implemented using convolutional neural networks in PyTorch. Achieved accuracy of 91% with 4 categories (tops, bottoms, shoes, hats) which decreased to 69% when more categories were introduced (dress, longsleeve, polo, etc).
 
 Experimented with image resizing and grayscaling in Feature Extraction from Images notebook.
 Exported images_3.csv & images_4.csv using the Add_Additional_Data notebook.
